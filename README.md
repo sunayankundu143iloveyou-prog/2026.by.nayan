@@ -1,2 +1,1 @@
-# 2026.by.nayan
-2026 NEW YEAR WISH 
+indx.html
